@@ -1,14 +1,14 @@
-## Greeting
+## Greeting !
 
 Hi there! Thanks for coming to my github.
 
-Please visit **_portfolio website_** first and feel free to look around.
+_Please visit *portfolio website* first and feel free to look around._
 
 Contact me anytime if you want me to know about.</br>
 My e-mail & blog are on the left on this page.
 
 Have a nice day :)
 
-## links
+## Link
 
 portfolio website : https://becorder-jayden.github.io/
