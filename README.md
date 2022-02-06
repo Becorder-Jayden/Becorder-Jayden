@@ -1,6 +1,4 @@
-## Greeting !
-
-Hi there! Thanks for coming to my github.
+### Hi there! Thanks for coming to my github.
 
 **Please visit _portfolio website_ first and feel free to look around.**
 
@@ -9,7 +7,7 @@ My e-mail & blog are on the left on this page.
 
 Have a nice day :)
 
-## Link
+## Links
 
 Portfolio website : https://becorder-jayden.github.io/</br>
 Projects : _Pinned below_
