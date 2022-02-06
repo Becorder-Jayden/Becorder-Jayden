@@ -1,3 +1,1 @@
-# Becorder-Jayden
-
-Hi there
+From Data to Developer
